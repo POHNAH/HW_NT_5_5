@@ -1,5 +1,5 @@
-EventId=242
-RecordingNumber=2
+EventId=370
+RecordingNumber=3
 
 ActionInfo
 ActionName=checkAndDel
@@ -11,8 +11,8 @@ EndActionInfo
 
 ActionName=Action1
 ActionId=2
-ActionFileSize=174997
+ActionFileSize=174015
 ActionDeleted=0
-RecordingNumber=2
+RecordingNumber=3
 EndActionInfo
 

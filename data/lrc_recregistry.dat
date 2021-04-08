@@ -166,7 +166,7 @@ Registry settings:
 		default	false
 	TestDir
 		(Default)	
-		default	C:\Users\WolF\Desktop\อา\HW\HW_NT_5_2\data\
+		default	C:\Users\WolF\Desktop\อา\HW\HW_NT_5_5\data\
 	TrapOnClient
 		default	true
 	TrapOnMainThreadOnly

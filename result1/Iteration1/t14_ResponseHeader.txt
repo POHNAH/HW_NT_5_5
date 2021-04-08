@@ -1,9 +1,9 @@
 HTTP/1.1 200 OK
-Date: Mon, 05 Apr 2021 12:51:11 GMT
+Date: Thu, 08 Apr 2021 09:52:45 GMT
 Server: Apache/2.2.21 (Win32)
-Expires: Sun, 04 Apr 2021 12:51:11 GMT
-Set-Cookie: MTUserInfo=firstName&Batman&hash&78&address1&Batmankins%20Town&lastName&Batmankins%0A&username&Batman&address2&Batmankins%20City; path=/
-Keep-Alive: timeout=5, max=82
+Expires: Wed, 07 Apr 2021 09:52:45 GMT
+Set-Cookie: MTUserInfo=firstName&Jojo&username&jojo&address2&&hash&47&expDate&03%2F24&creditCard&1111&address1&&lastName&Bean%0A; path=/
+Keep-Alive: timeout=5, max=83
 Connection: Keep-Alive
 Transfer-Encoding: chunked
 Content-Type: text/html; charset=ISO-8859-1

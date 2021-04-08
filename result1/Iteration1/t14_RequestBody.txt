@@ -1,4 +1,4 @@
-"firstName=Sergey&lastName=Ivanov&address1=Akademicheskaya&address2=1&pass1=Sergey+Ivanov&credi"
-"tCard=2222&expDate=03%2F24&oldCCOption=&numPassengers=1&seatType=Coach&seatPref=None&outboundF"
-"light=722%3B534%3B05%2F04%2F2021&advanceDiscount=0&returnFlight=270%3B565%3B13%2F04%2F2021&JSF"
-"ormSubmit=off&.cgifields=saveCC&buyFlights.x=49&buyFlights.y=14"
+"firstName=Sidor&lastName=Sidorov&address1=Akademicheskaya&address2=1&pass1=Sidor+Sidorov&pass2"
+"=&pass3=&pass4=&creditCard=1111&expDate=03%2F24&saveCC=on&oldCCOption=on&numPassengers=4&seatT"
+"ype=Coach&seatPref=None&outboundFlight=931%3B308%3B08%2F04%2F2021&advanceDiscount=0&returnFlig"
+"ht=&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=49&buyFlights.y=14"

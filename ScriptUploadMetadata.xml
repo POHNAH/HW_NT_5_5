@@ -5,9 +5,7 @@
   <ActionFiles>
     <FileEntry Name="vuser_init.c" Filter="2" />
     <FileEntry Name="logic.c" Filter="2" />
-    <FileEntry Name="createTicket.c" Filter="2" />
-    <FileEntry Name="checkAndDel.c" Filter="2" />
-    <FileEntry Name="checkFirstClass.c" Filter="2" />
+    <FileEntry Name="sort.c" Filter="2" />
     <FileEntry Name="vuser_end.c" Filter="2" />
   </ActionFiles>
   <GeneralFiles>
@@ -19,19 +17,29 @@
     <FileEntry Name="card.dat" Filter="2" />
     <FileEntry Name="adress.dat" Filter="2" />
     <FileEntry Name="name.dat" Filter="2" />
-    <FileEntry Name="pass.dat" Filter="2" />
-    <FileEntry Name="login.dat" Filter="2" />
     <FileEntry Name="randBoolean.dat" Filter="2" />
     <FileEntry Name="city.dat" Filter="2" />
+    <FileEntry Name="createTicket.h" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="Watches.xml" Filter="2" />
     <FileEntry Name="seat.dat" Filter="2" />
+    <FileEntry Name="combined_HW_NT_5_5.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name=".gitignore" Filter="1" />
+    <FileEntry Name="118503600440.idx" Filter="1" />
+    <FileEntry Name="130005844440.idx" Filter="1" />
+    <FileEntry Name="173150372440.idx" Filter="1" />
+    <FileEntry Name="40508007440.idx" Filter="1" />
+    <FileEntry Name="46382445440.idx" Filter="1" />
+    <FileEntry Name="48743066440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
     <FileEntry Name="data.zip" Filter="1" />
     <FileEntry Name="date.dat" Filter="1" />
-    <FileEntry Name="HW_NT_5_2.prm.bak" Filter="1" />
-    <FileEntry Name="HW_NT_5_4.prm.bak" Filter="1" />
+    <FileEntry Name="HW_NT_5_5.c.pickle" Filter="1" />
+    <FileEntry Name="HW_NT_5_5.ci" Filter="1" />
+    <FileEntry Name="HW_NT_5_5.prm.bak" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
@@ -43,6 +51,7 @@
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>

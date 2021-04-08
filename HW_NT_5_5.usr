@@ -25,9 +25,7 @@ ScriptLocale=ru-RU
 [Actions]
 vuser_init=vuser_init.c
 logic=logic.c
-createTicket=createTicket.c
-checkAndDel=checkAndDel.c
-checkFirstClass=checkFirstClass.c
+sort=sort.c
 vuser_end=vuser_end.c
 [RunLogicFiles]
 Default Profile=default.usp
@@ -40,30 +38,22 @@ globals.h=
 [Modified Actions]
 vuser_init=1
 logic=1
-createTicket=1
-checkAndDel=1
-checkFirstClass=1
+sort=1
 vuser_end=1
 [Recorded Actions]
 vuser_init=0
 logic=0
-createTicket=0
-checkAndDel=1
-checkFirstClass=0
+sort=1
 vuser_end=0
 [Replayed Actions]
 vuser_init=1
 logic=1
-createTicket=1
-checkAndDel=1
-checkFirstClass=1
+sort=1
 vuser_end=1
 [Interpreters]
 vuser_init=cci
 logic=cci
-createTicket=cci
-checkAndDel=cci
-checkFirstClass=cci
+sort=cci
 vuser_end=cci
 [TransactionsOrder]
 Order=
@@ -78,3 +68,5 @@ IsDurationIndefinite=0
 NumIterationsUntilCompletion=1
 IterationFromRTS=0
 NumIterationIndefinitely=1
+[ManuallyExtraFiles]
+createTicket.h=
